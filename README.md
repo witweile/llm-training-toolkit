@@ -1,2 +1,1 @@
-# llm-training-toolkit
-Repository for LLM training and fine-tuning experiments
+# LLM Training Toolkit\n\nA learning project for understanding and experimenting with large language model training and fine-tuning across different architectures.
